@@ -27,11 +27,7 @@
 
 - **Programming Languages:**  
   ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)  
-  ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)  
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-- **Web Technologies / Tech Stack:**  
-  ![MERN](https://img.shields.io/badge/MERN-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
 - **Testing Frameworks:**  
   ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)  
@@ -54,12 +50,6 @@
   A collection of testing frameworks and automation examples.  
   - **Languages & Tools:** Java, Selenium, TestNG  
   - **Highlights:** Showcases automation frameworks for real-world testing scenarios.
-
-- [**Yellowmatics**](https://github.com/Ananth95144/Yellowmatics)  
-  A project exploring practical implementations in software development.  
-  - **Languages & Frameworks:** Java, MERN  
-  - **Highlights:** Combines development and testing aspects for complete project coverage.
-
 ---
 
 ## 🌐 Connect with Me
